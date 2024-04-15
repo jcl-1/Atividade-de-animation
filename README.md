@@ -1,2 +1,1 @@
-Animation
-Aprendendo...
+Tentativa de aprendizado
